@@ -74,6 +74,8 @@ public class Solution {
 	static boolean findParent(int a, int b){
 		a = getParent(a);
 		b = getParent(b);
+		//합집합에서는 같으면 노드끼리 연결되어 있다는 뜻
+		//크루스칼에서는 같으면 사이클이 생긴다는 뜻이다.
 		if(a == b) return true;
 		else return false;
 	}
