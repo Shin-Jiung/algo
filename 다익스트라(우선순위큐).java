@@ -12,7 +12,7 @@ class pair implements Comparable<pair>{
 		this.b = b;
 	}
 	@Override
-	public int compareTo(pair o) {
+	public int compareTo(pair o) {// 작은 것이 앞으로 올수 있게 구현
 		// TODO Auto-generated method stub
 		return this.b - o.b;
 	}
@@ -83,6 +83,7 @@ public class Solution {
 					int nextDistance = distance + a[current][i];	
 					if(nextDistance < d[next]){
 						d[next] = nextDistance;
+						//System.out.println(current+" "+next+" "+d[next]);
 						pq.add(new pair(next,nextDistance));
 					}
 				}
