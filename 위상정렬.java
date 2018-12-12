@@ -7,8 +7,6 @@
  */
 import java.util.*;
 
-import org.omg.CORBA.INTERNAL;
-
 public class Solution {
 	static int n;
 	static int MAX = 10;
