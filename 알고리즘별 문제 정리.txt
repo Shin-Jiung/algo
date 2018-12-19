@@ -1,0 +1,19 @@
+위상정렬
+
+1. https://www.acmicpc.net/problem/2252
+2. https://www.acmicpc.net/problem/1516
+3. https://www.acmicpc.net/problem/1948
+
+이분 매칭
+
+1. https://www.acmicpc.net/problem/2188
+2. https://www.acmicpc.net/problem/11375 //java는 시간 초과 난다.
+3. https://www.acmicpc.net/problem/11376 //java시간 초과 * 매칭이 2개 된다는 점~
+4. https://www.acmicpc.net/problem/11377
+5. https://www.acmicpc.net/problem/1671
+
+강한결합 요소 SCC
+
+1. https://www.acmicpc.net/problem/2150
+2. https://www.acmicpc.net/problem/4196
+3. https://www.acmicpc.net/problem/3977
