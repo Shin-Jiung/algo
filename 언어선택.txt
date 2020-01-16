@@ -1,0 +1,27 @@
+-Spring 기반 백엔드 서버 개발/운영 경험 필수
+-Python 개발/운영 경험 우대
+-TensorFlow serving, docker, k8s 운영 경험 우대
+-kafka 등 메세징 시스템 운영 경험 우대
+
+- Angular, React, Typescript, NodeJS, GraphQL 사용 경험 (프론트엔드 개발)
+
+- Java, Spring boot, Kotlin, Kafka, Elastic Search, MongoDB (백엔드 개발)
+
+-  HTTP 프로토콜에 대한 높은 이해도
+
+
+- JavaScript 기본 개발 역량을 갖추신 분
+- React, TypeScript, Node.js, Express/Koa 기반 웹 개발 경험을 보유하신 분
+
+- RDBMS 또는 NoSQL 개발 경험을 가지신 분
+- 프로그램 설계, 디버깅, 자료구조 및 알고리즘의 이해가 가능하신 분?
+
+
+
+[우대사항]
+
+-  React Native로 앱 개발 경험이 있으신 분
+
+- FE/BE를 포함한 웹 서비스 전체 개발 경험이 있으신 분
+- 테스트 코드의 가치를 이해하고, 작성을 즐기시는 분
+- 기술 문서 작성 및 외부 세미나 발표, 오픈소스 기여에 적극적이신 분
